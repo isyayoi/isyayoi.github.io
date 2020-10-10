@@ -125,6 +125,7 @@
     
 </div>
 
+
     <div id="primary">
         
 <div class="post">
@@ -204,7 +205,7 @@
 
 <div class="post">
     <a href="/2020/10/04/Test/" title="Test">
-        <img src="/img/welcome-cover.jpg" class="cover" width="680" height="440">
+        <img src="/img/cover.jpg" class="cover" width="680" height="440">
     </a>
     <div class="else">
         <p>十月 04, 2020</p>
@@ -300,4 +301,7 @@ if (windowWidth > 768) {
     document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
 }
 </script>
-<script src="/js/cursor.js"></script>
+
+<canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas> 
+<script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
+<script type="text/javascript" src="/js/fireworks.js"></script>
