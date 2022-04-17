@@ -27,19 +27,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Testing</title>
-    <url>/2020/10/04/Testing/</url>
-    <content><![CDATA[<p>此刻打盹，你将做梦；<br>此刻学习，你将圆梦。</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>励志</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的第一篇文章</title>
     <url>/2020/10/05/My-First-Blog/</url>
     <content><![CDATA[<p>女人心，秋日空。</p>
@@ -56,6 +43,19 @@
     <title>Test</title>
     <url>/2020/10/04/Test/</url>
     <content><![CDATA[<p>人生很贵，请别浪费。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>励志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Testing</title>
+    <url>/2020/10/04/Testing/</url>
+    <content><![CDATA[<p>此刻打盹，你将做梦；<br>此刻学习，你将圆梦。</p>
 ]]></content>
       <categories>
         <category>随笔</category>
